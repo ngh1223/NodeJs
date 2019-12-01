@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "ngh72368356",
+    "database": "pet",
+    "host": "mysql-mm.ctguzjlweikx.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "admin",
+    "password": "ngh72368356",
+    "database": "pet",
+    "host": "mysql-mm.ctguzjlweikx.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "admin",
+    "password": "ngh72368356",
+    "database": "pet",
+    "host": "mysql-mm.ctguzjlweikx.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "operatorsAliases": false
+  }
+}

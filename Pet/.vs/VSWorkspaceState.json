@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\angularjs",
+    "\\client\\angularjs\\lib",
+    "\\config",
+    "\\public",
+    "\\public\\images",
+    "\\server",
+    "\\server\\routes",
+    "\\server\\routes\\adopt",
+    "\\server\\routes\\member"
+  ],
+  "SelectedNode": "\\config\\config.json",
+  "PreviewInSolutionExplorer": false
+}
